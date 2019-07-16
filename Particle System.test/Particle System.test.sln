@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Particle System.test", "Assembly-CSharp.csproj", "{ADB35466-0306-60CE-9B79-64BB4847D57E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Particle System.test", "Assembly-CSharp-Editor.csproj", "{C57E4342-3A4B-F966-94CA-09C3223452C8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ADB35466-0306-60CE-9B79-64BB4847D57E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ADB35466-0306-60CE-9B79-64BB4847D57E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ADB35466-0306-60CE-9B79-64BB4847D57E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ADB35466-0306-60CE-9B79-64BB4847D57E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C57E4342-3A4B-F966-94CA-09C3223452C8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C57E4342-3A4B-F966-94CA-09C3223452C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C57E4342-3A4B-F966-94CA-09C3223452C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C57E4342-3A4B-F966-94CA-09C3223452C8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
